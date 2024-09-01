@@ -1,0 +1,20 @@
+/* RestaurantList.css */
+.restaurant {
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    border-left: 5px solid #007bff;
+}
+
+.restaurant h3 {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #007bff;
+}
+
+.restaurant p {
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+}
